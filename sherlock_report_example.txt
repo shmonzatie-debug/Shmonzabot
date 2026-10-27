@@ -1,0 +1,4 @@
+Example report only — replace with a report you are authorized to store.
+
+[+] ExampleUsername: https://example.com/ExampleUsername
+[-] ExampleUsername: Not Found
